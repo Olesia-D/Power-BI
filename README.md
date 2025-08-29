@@ -1,4 +1,5 @@
 # Rossmann Promo Sales Analysis
+![Demo Rossmann Promo Analysis](https://github.com/Olesia-D/Power-BI/blob/main/Rossman%20Promo%20Demo.gif)
 
 ![Rossmann Promo Sales Analysis.png](https://github.com/Olesia-D/Rossmann_Promo/blob/main/Rossmann%20Promo%20Sales%20Analysis.png)
 
